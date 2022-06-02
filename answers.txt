@@ -1,0 +1,11 @@
+Nathaniel Potter
+Lab #1
+6/2/2022
+
+Note: I joined CS202 about 1 week late, I'm catching up
+
+#3: The command "ls > newfile.txt" has created a text file called "newfile.txt", and stored the names of each file inside the directory into newfile. 
+
+#5: The terminal states that newfile.txt should be committed, as well as point out that answers.txt is "untracked", since it hasn't been added. 
+
+#6: The command highlights the line that was newly added. 
